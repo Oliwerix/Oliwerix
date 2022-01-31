@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on [nginx-generator](https://github.com/Oliwerix/nginx-generator), an interactive script for generating nginx configs
+#### Contact
+xmpp: [oliwerix@oliwerixc.com](xmpp://oliwerix@oliwerix.com)
 
 <!--
 **Oliwerix/Oliwerix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
